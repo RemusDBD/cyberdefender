@@ -1,4 +1,8 @@
-Whoever's writing this BS for checking password-strength for our government & citizen should quit your job and go jump down to somewhere. Whoever's auditing this crap too pls do the same. 
+Whoever's writing this BS for checking password-strength for 🇭🇰 Hong Kong government & citizen should quit your job and go jump down to somewhere. Whoever's auditing this crap too pls do the same. 
+
+![](img/cyberdefender_bs_password_strength.png)
+![](img/cyberdefender_bs_password_strength_2.png)
+![](img/cyberdefender_bs_password_strength_3.png)
 
 Website : "[https://cyberdefender.hk/password-strength-tool/](https://cyberdefender.hk/password-strength-tool/)"
 
